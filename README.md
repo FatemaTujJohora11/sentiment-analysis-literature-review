@@ -74,7 +74,12 @@ This is a **focused mini-survey of five studies**, not a systematic or exhaustiv
 
 ## Report and Presentation
 
-I completed a **10-page IEEE-format report** and an accompanying presentation for ENGI 9808. Public, privacy-reviewed versions may be added here after removing student-identifying information and checking course sharing permissions.
+I completed a **10-page IEEE-format report** and an accompanying presentation for ENGI 9808. Public versions with student-identifying information removed are linked below:
+
+- [Read the Literature Review (PDF)](Sentiment_Analysis_Research_Report_Public.pdf)
+- [View the Research Presentation (PPTX)](Sentiment_Analysis_Presentation_Public.pptx)
+
+These are academic coursework materials, not a peer-reviewed journal publication.
 
 ## References
 
